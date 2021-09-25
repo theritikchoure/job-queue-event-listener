@@ -12,7 +12,7 @@
 Endpoints are --
 
 - Homepage [/](http://127.0.0.1/).
-- Test Email Without Delayed [/test]
-- Test Email with 5 Seconds Delayed [/detest]
+- Test Email Without Delayed [/test](http://127.0.0.1/test).
+- Test Email with 5 Seconds Delayed [/detest](http://127.0.0.1/detest).
 
-- Send Mail Using Event [/event]
+- Send Mail Using Event [/event](http://127.0.0.1/event).
